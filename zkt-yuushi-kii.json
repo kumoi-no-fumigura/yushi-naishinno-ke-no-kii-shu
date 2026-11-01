@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 78,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-yuushi-kii-0001",
@@ -1136,7 +1139,7 @@
   "blocks": 78,
   "chars": 1814,
   "poems": 78,
-  "yaku": 0,
+  "yaku": 78,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T01:59:35+09:00"
